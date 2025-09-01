@@ -42,7 +42,7 @@ def chatbot_response(user_id, user_input):
             context[user_id]["state"] = "workout_plan"
             return "Gas! Ini jadwal latihan mingguan:\n🏃 Senin: Lari 30 menit\n🏋️ Rabu: Gym upper body\n🚴 Jumat: Sepeda 45 menit\n\nMau saya kasih *tips pemanasan* juga?"
         elif re.search(r'\b(relaksasi|stres|stress)\b', user_input, re.IGNORECASE):
-            context[user_id]["state"] = "relax"
+            context[user_id]["state"] = "relaxation"
             return "Relax dulu! Coba tarik napas 5 detik, buang perlahan. Mau saya kasih *teknik relaksasi lainnya*?"
         elif re.search(r'\bya|boleh|oke\b', user_input, re.IGNORECASE):
             return "Oke, pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi*."
@@ -64,6 +64,17 @@ def chatbot_response(user_id, user_input):
             return "Tips pemanasan: 🔥 Lakukan peregangan dinamis 5 menit sebelum latihan!"
         else:
             return "Kalau mau tips pemanasan, bilang *ya* 😊"
+    
+    if context[user_id]["state"] == "relaxation":
+        if re.search(r'\b(ya|boleh|oke|lanjut)\b', user_input, re.IGNORECASE):
+            context[user_id]["state"] = None
+            return "🌿 Tips relaksasi: Coba main bersama teman-teman!."
+        else:
+            return "Kalau mau tips relaksasi, bilang *ya* 😊"
+    
+    if re.search(r'\b(relaksasi|tenang|santai)\b', user_input, re.IGNORECASE):
+        context[user_id]["state"] = "relaxation"
+        return "Mau saya kasih tips relaksasi biar lebih tenang? (ya/tidak)"
 
     return "Hmm, saya belum paham. Mau pilih *Diet*, *Latihan*, atau *Relaksasi*?"
 

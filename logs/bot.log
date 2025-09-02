@@ -1,0 +1,32 @@
+2025-09-02 02:42:43,680 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-02 02:44:17,841 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-02 02:48:08,672 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-02 02:48:11,632 INFO [User: 123] Input: Hi
+2025-09-02 02:48:11,632 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 02:48:17,069 INFO [User: 123] Input: Diet
+2025-09-02 02:48:17,069 INFO Response: Oke, kita bahas diet yaa \U0001f957.
+Ini contoh menu harian sehat:
+
+- Sarapan: Oatmeal + buah
+- Siang: Nasi merah + dada ayam
+- Snack: Yogurt tanpa gula
+- Malam: Ikan panggang + salad
+
+Mau aku tambahkan *tips minuman sehat* juga?
+2025-09-02 02:48:19,085 INFO [User: 123] Input: Ya
+2025-09-02 02:48:19,085 INFO Response: Tips minuman sehat \U0001f4a7:
+- Minum air putih minimal 8 gelas sehari
+- Infused water (lemon + mint) bisa dicoba
+- Teh hijau tanpa gula bagus buat relaksasi
+
+Pola minum yang baik sama pentingnya dengan pola makan.
+2025-09-02 02:51:10,886 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-02 09:21:30,609 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-02 09:21:30,619 INFO logging in using static token
+2025-09-02 09:23:16,388 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-02 09:23:16,395 INFO logging in using static token
+2025-09-02 09:27:25,514 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-02 09:27:25,523 INFO logging in using static token

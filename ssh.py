@@ -19,7 +19,7 @@ print("TOKEN Loaded:", TOKEN[:10], "...")
 
 intents = discord.Intents.default()
 intents.messages = True
-intents.message_content = True
+#intents.message_content = True
 
 client = discord.Client(intents=intents)
 

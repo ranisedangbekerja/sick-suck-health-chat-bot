@@ -92,6 +92,7 @@ python -m unittest discover -s tests -p "test_*.py" -v
 
 ## 📸 Demo
 <img width="1080" height="690" alt="image" src="https://github.com/user-attachments/assets/38c26b35-bfa8-4edd-b4f7-89d8640c8871" />
+<img width="1080" height="690" alt="image" src="https://github.com/user-attachments/assets/ec361d9c-0aed-4810-85ae-507952bfe70e" />
 
 ---
 

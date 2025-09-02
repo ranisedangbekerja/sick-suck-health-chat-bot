@@ -108,3 +108,142 @@ Mau aku bagikan *teknik relaksasi lainnya*?
 - Jalan santai sebentar di luar rumah
 
 Hal sederhana bisa bikin pikiran lebih segar.
+2025-09-02 19:35:34,143 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-02 19:35:34,146 INFO logging in using static token
+2025-09-02 19:35:36,178 INFO Shard ID None has connected to Gateway (Session ID: f3e423cf54cc334a7c8229c851d05368).
+2025-09-02 19:35:38,187 INFO Bot login sebagai SickSuckHealth#9656
+2025-09-02 19:36:29,016 INFO [User: 845072112540712990] Input: hi <@1412048052273025077>
+2025-09-02 19:36:29,018 INFO Response: Halo, selamat malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 19:36:39,154 INFO [User: 845072112540712990] Input: 
+2025-09-02 19:36:39,154 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 19:37:10,698 INFO [User: 845072112540712990] Input: aku sakit <@1412048052273025077>
+2025-09-02 19:37:10,698 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 19:37:41,815 INFO [User: 845072112540712990] Input: hi <@1412048052273025077>
+2025-09-02 19:37:41,815 INFO Response: Halo, selamat malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 19:37:45,592 INFO [User: 845072112540712990] Input: 
+2025-09-02 19:37:45,592 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 19:37:59,647 INFO [User: 845072112540712990] Input: hi <@1412048052273025077>
+2025-09-02 19:37:59,647 INFO Response: Halo, selamat malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 19:38:02,855 INFO [User: 845072112540712990] Input: diet <@1412048052273025077>
+2025-09-02 19:38:02,856 INFO Response: Oke, kita bahas diet yaa \U0001f957.
+Ini contoh menu harian sehat:
+
+- Sarapan: Oatmeal + buah
+- Siang: Nasi merah + dada ayam
+- Snack: Yogurt tanpa gula
+- Malam: Ikan panggang + salad
+
+Mau aku tambahkan *tips minuman sehat* juga?
+2025-09-02 19:46:24,502 INFO [User: 845072112540712990] Input: hi <@1412048052273025077>
+2025-09-02 19:46:24,503 INFO Response: Halo, selamat malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 19:46:42,525 INFO [User: 845072112540712990] Input: Mau yang latihan dong <@1412048052273025077>
+2025-09-02 19:46:42,525 INFO Response: Baik, ini jadwal latihan mingguan yang bisa kamu lakukan. Usahakan minimal 3 kali seminggu yaa! \U0001f4aa
+
+- Senin: Lari santai 30 menit
+- Rabu: Latihan beban (upper body)
+- Jumat: Bersepeda 45 menit
+
+Mau aku kasih *tips pemanasan* sebelum latihan?
+2025-09-02 23:49:45,857 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-02 23:49:45,858 INFO logging in using static token
+2025-09-02 23:49:49,406 INFO Shard ID None has connected to Gateway (Session ID: 5408ec03190de4c4ee45da45f59dcb84).
+2025-09-02 23:49:51,417 INFO Bot login sebagai SickSuckHealth#9656
+2025-09-02 23:52:33,428 INFO [User: 845072112540712990] Input: Hi <@1412048052273025077>
+2025-09-02 23:52:33,428 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 23:52:51,307 INFO [User: 845072112540712990] Input: Halo, tolong bantu aku tentang tips diet <@1412048052273025077>
+2025-09-02 23:52:51,308 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 23:53:54,414 INFO [User: 845072112540712990] Input: 
+2025-09-02 23:53:54,414 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 23:54:10,474 INFO [User: 845072112540712990] Input: Hallo <@1412048052273025077>
+2025-09-02 23:54:10,474 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 23:54:18,831 INFO [User: 845072112540712990] Input: Hi <@1412048052273025077>
+2025-09-02 23:54:18,832 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 23:54:37,381 INFO [User: 845072112540712990] Input: Hi <@1412048052273025077>
+2025-09-02 23:54:37,382 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 23:54:42,793 INFO [User: 845072112540712990] Input: 
+2025-09-02 23:54:42,793 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 23:54:54,332 INFO [User: 845072112540712990] Input: Hii <@1412048052273025077>
+2025-09-02 23:54:54,332 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 23:55:13,182 INFO [User: 845072112540712990] Input: Hi <@1412048052273025077>
+2025-09-02 23:55:13,182 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 23:55:20,752 INFO [User: 845072112540712990] Input: 
+2025-09-02 23:55:20,752 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 23:55:31,035 INFO [User: 845072112540712990] Input: Hi <@1412048052273025077>
+2025-09-02 23:55:31,035 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 23:55:41,696 INFO [User: 845072112540712990] Input: Diet please <@1412048052273025077>
+2025-09-02 23:55:41,696 INFO Response: Oke, kita bahas diet yaa \U0001f957.
+Ini contoh menu harian sehat:
+
+- Sarapan: Oatmeal + buah
+- Siang: Nasi merah + dada ayam
+- Snack: Yogurt tanpa gula
+- Malam: Ikan panggang + salad
+
+Mau aku tambahkan *tips minuman sehat* juga?
+2025-09-02 23:55:50,582 INFO [User: 845072112540712990] Input: Ya <@1412048052273025077>
+2025-09-02 23:55:50,583 INFO Response: Tips minuman sehat \U0001f4a7:
+- Minum air putih minimal 8 gelas sehari
+- Infused water (lemon + mint) bisa dicoba
+- Teh hijau tanpa gula bagus buat relaksasi
+
+Pola minum yang baik sama pentingnya dengan pola makan.
+2025-09-02 23:55:58,598 INFO [User: 845072112540712990] Input: Okay <@1412048052273025077>
+2025-09-02 23:55:58,599 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 23:56:05,451 INFO [User: 845072112540712990] Input: Latihan <@1412048052273025077>
+2025-09-02 23:56:05,451 INFO Response: Baik, ini jadwal latihan mingguan yang bisa kamu lakukan. Usahakan minimal 3 kali seminggu yaa! \U0001f4aa
+
+- Senin: Lari santai 30 menit
+- Rabu: Latihan beban (upper body)
+- Jumat: Bersepeda 45 menit
+
+Mau aku kasih *tips pemanasan* sebelum latihan?
+2025-09-02 23:56:14,683 INFO [User: 845072112540712990] Input: Mau <@1412048052273025077>
+2025-09-02 23:56:14,683 INFO Response: Kalau mau tips pemanasan, bilang aja *ya*.
+2025-09-02 23:56:20,664 INFO [User: 845072112540712990] Input: Ya <@1412048052273025077>
+2025-09-02 23:56:20,665 INFO Response: Tips pemanasan \U0001f525:
+- Peregangan dinamis 5 menit
+- Contoh: arm circle, lunges, jogging ringan
+
+Dengan pemanasan, risiko cedera bisa berkurang.
+2025-09-02 23:56:35,124 INFO [User: 845072112540712990] Input: 
+2025-09-02 23:56:35,124 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-02 23:56:42,742 INFO [User: 845072112540712990] Input: Relaksasi <@1412048052273025077>
+2025-09-02 23:56:42,742 INFO Response: Kalau lagi penat \U0001f33f coba tarik napas dalam 5 detik lalu hembuskan perlahan.
+Mau aku bagikan *teknik relaksasi lainnya*?
+2025-09-02 23:56:53,699 INFO [User: 845072112540712990] Input: Ya <@1412048052273025077>
+2025-09-02 23:56:53,699 INFO Response: Beberapa teknik relaksasi lain \U0001f338:
+- Dengarkan musik menenangkan
+- Meditasi 5 menit
+- Jalan santai sebentar di luar rumah
+
+Hal sederhana bisa bikin pikiran lebih segar.

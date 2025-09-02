@@ -74,3 +74,37 @@ Mau aku tambahkan *tips minuman sehat* juga?
 - Teh hijau tanpa gula bagus buat relaksasi
 
 Pola minum yang baik sama pentingnya dengan pola makan.
+2025-09-02 10:03:30,414 INFO [User: 863728251528544256] Input: halo <@1412048052273025077>
+2025-09-02 10:03:30,414 INFO Response: Halo, selamat pagi \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 10:03:38,299 INFO [User: 863728251528544256] Input: aku mau latihan deh <@1412048052273025077>
+2025-09-02 10:03:38,299 INFO Response: Baik, ini jadwal latihan mingguan yang bisa kamu lakukan. Usahakan minimal 3 kali seminggu yaa! \U0001f4aa
+
+- Senin: Lari santai 30 menit
+- Rabu: Latihan beban (upper body)
+- Jumat: Bersepeda 45 menit
+
+Mau aku kasih *tips pemanasan* sebelum latihan?
+2025-09-02 10:03:43,932 INFO [User: 863728251528544256] Input: ya <@1412048052273025077>
+2025-09-02 10:03:43,932 INFO Response: Tips pemanasan \U0001f525:
+- Peregangan dinamis 5 menit
+- Contoh: arm circle, lunges, jogging ringan
+
+Dengan pemanasan, risiko cedera bisa berkurang.
+2025-09-02 10:03:59,702 INFO [User: 863728251528544256] Input: halo <@1412048052273025077>
+2025-09-02 10:03:59,702 INFO Response: Halo, selamat pagi \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-02 10:04:07,171 INFO [User: 863728251528544256] Input: aku stress <@1412048052273025077>
+2025-09-02 10:04:07,171 INFO Response: Kalau lagi penat \U0001f33f coba tarik napas dalam 5 detik lalu hembuskan perlahan.
+Mau aku bagikan *teknik relaksasi lainnya*?
+2025-09-02 10:04:13,845 INFO [User: 863728251528544256] Input: ya <@1412048052273025077>
+2025-09-02 10:04:13,846 INFO Response: Beberapa teknik relaksasi lain \U0001f338:
+- Dengarkan musik menenangkan
+- Meditasi 5 menit
+- Jalan santai sebentar di luar rumah
+
+Hal sederhana bisa bikin pikiran lebih segar.

@@ -247,3 +247,125 @@ Mau aku bagikan *teknik relaksasi lainnya*?
 - Jalan santai sebentar di luar rumah
 
 Hal sederhana bisa bikin pikiran lebih segar.
+2025-09-07 01:26:18,887 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-07 01:26:26,641 INFO [User: 123] Input: Hi
+2025-09-07 01:26:26,642 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-07 01:26:29,893 INFO [User: 123] Input: Selamat Malam
+2025-09-07 01:26:29,894 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-07 01:26:33,498 INFO [User: 123] Input: Latihan dong
+2025-09-07 01:26:33,498 INFO Response: Baik, ini jadwal latihan mingguan yang bisa kamu lakukan. Usahakan minimal 3 kali seminggu yaa! \U0001f4aa
+
+- Senin: Lari santai 30 menit
+- Rabu: Latihan beban (upper body)
+- Jumat: Bersepeda 45 menit
+
+Mau aku kasih *tips pemanasan* sebelum latihan?
+2025-09-07 01:26:36,084 INFO [User: 123] Input: Aku stress
+2025-09-07 01:26:36,086 INFO Response: Kalau mau tips pemanasan, bilang aja *ya*.
+2025-09-07 01:26:39,617 INFO [User: 123] Input: mau
+2025-09-07 01:26:39,618 INFO Response: Kalau mau tips pemanasan, bilang aja *ya*.
+2025-09-07 01:26:40,694 INFO [User: 123] Input: ya
+2025-09-07 01:26:40,694 INFO Response: Tips pemanasan \U0001f525:
+- Peregangan dinamis 5 menit
+- Contoh: arm circle, lunges, jogging ringan
+
+Dengan pemanasan, risiko cedera bisa berkurang.
+2025-09-07 01:26:43,374 INFO [User: 123] Input: okay
+2025-09-07 01:26:43,374 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-07 01:26:45,542 INFO [User: 123] Input: diet
+2025-09-07 01:26:45,543 INFO Response: Oke, kita bahas diet yaa \U0001f957.
+Ini contoh menu harian sehat:
+
+- Sarapan: Oatmeal + buah
+- Siang: Nasi merah + dada ayam
+- Snack: Yogurt tanpa gula
+- Malam: Ikan panggang + salad
+
+Mau aku tambahkan *tips minuman sehat* juga?
+2025-09-07 01:26:47,055 INFO [User: 123] Input: ya
+2025-09-07 01:26:47,055 INFO Response: Tips minuman sehat \U0001f4a7:
+- Minum air putih minimal 8 gelas sehari
+- Infused water (lemon + mint) bisa dicoba
+- Teh hijau tanpa gula bagus buat relaksasi
+
+Pola minum yang baik sama pentingnya dengan pola makan.
+2025-09-07 01:26:49,712 INFO [User: 123] Input: okayy nice
+2025-09-07 01:26:49,713 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-07 01:27:07,419 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-07 01:27:08,688 INFO [User: 123] Input: hey
+2025-09-07 01:27:08,689 INFO Response: Halo, aku bisa bantu dengan tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Kamu mau pilih yang mana?
+2025-09-07 01:27:12,814 INFO [User: 123] Input: Latihan
+2025-09-07 01:27:12,815 INFO Response: Halo, aku bisa bantu dengan tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Kamu mau pilih yang mana?
+2025-09-07 01:27:16,922 INFO [User: 123] Input: Relaksasi
+2025-09-07 01:27:16,923 INFO Response: Halo, aku bisa bantu dengan tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Kamu mau pilih yang mana?
+2025-09-07 01:27:21,299 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-07 01:27:23,399 INFO [User: 123] Input: hi
+2025-09-07 01:27:23,399 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-07 01:27:27,030 INFO [User: 123] Input: Latihan
+2025-09-07 01:27:27,030 INFO Response: Baik, ini jadwal latihan mingguan yang bisa kamu lakukan. Usahakan minimal 3 kali seminggu yaa! \U0001f4aa
+
+- Senin: Lari santai 30 menit
+- Rabu: Latihan beban (upper body)
+- Jumat: Bersepeda 45 menit
+
+Mau aku kasih *tips pemanasan* sebelum latihan?
+2025-09-07 01:27:29,114 INFO [User: 123] Input: ya
+2025-09-07 01:27:29,114 INFO Response: Tips pemanasan \U0001f525:
+- Peregangan dinamis 5 menit
+- Contoh: arm circle, lunges, jogging ringan
+
+Dengan pemanasan, risiko cedera bisa berkurang.
+2025-09-07 01:27:31,354 INFO [User: 123] Input: okay
+2025-09-07 01:27:31,354 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-07 01:27:34,123 INFO [User: 123] Input: Relaksasi
+2025-09-07 01:27:34,123 INFO Response: Kalau lagi penat \U0001f33f coba tarik napas dalam 5 detik lalu hembuskan perlahan.
+Mau aku bagikan *teknik relaksasi lainnya*?
+2025-09-07 01:27:36,005 INFO [User: 123] Input: Ya
+2025-09-07 01:27:36,006 INFO Response: Beberapa teknik relaksasi lain \U0001f338:
+- Dengarkan musik menenangkan
+- Meditasi 5 menit
+- Jalan santai sebentar di luar rumah
+
+Hal sederhana bisa bikin pikiran lebih segar.
+2025-09-07 01:27:39,846 INFO [User: 123] Input: Okay
+2025-09-07 01:27:39,846 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642
+2025-09-07 01:27:43,444 INFO [User: 123] Input: Diet dong
+2025-09-07 01:27:43,445 INFO Response: Oke, kita bahas diet yaa \U0001f957.
+Ini contoh menu harian sehat:
+
+- Sarapan: Oatmeal + buah
+- Siang: Nasi merah + dada ayam
+- Snack: Yogurt tanpa gula
+- Malam: Ikan panggang + salad
+
+Mau aku tambahkan *tips minuman sehat* juga?
+2025-09-07 01:27:58,818 WARNING PyNaCl is not installed, voice will NOT be supported
+2025-09-07 01:28:00,629 INFO [User: 123] Input: hi
+2025-09-07 01:28:00,629 INFO Response: Halo, selamat larut malam \U0001f44b 
+Senang bisa ngobrol denganmu.
+Aku bisa kasih tips seputar *Diet*, *Latihan*, atau *Relaksasi*.
+Mau mulai dari mana?
+2025-09-07 01:28:06,799 INFO [User: 123] Input: Relaksasi dong
+2025-09-07 01:28:06,800 INFO Response: Kalau lagi penat \U0001f33f coba tarik napas dalam 5 detik lalu hembuskan perlahan.
+Mau aku bagikan *teknik relaksasi lainnya*?
+2025-09-07 01:28:08,365 INFO [User: 123] Input: Ya
+2025-09-07 01:28:08,365 INFO Response: Beberapa teknik relaksasi lain \U0001f338:
+- Dengarkan musik menenangkan
+- Meditasi 5 menit
+- Jalan santai sebentar di luar rumah
+
+Hal sederhana bisa bikin pikiran lebih segar.
+2025-09-07 01:28:10,075 INFO [User: 123] Input: okey
+2025-09-07 01:28:10,076 INFO Response: Hmm, coba pilih salah satu: *Diet*, *Latihan*, atau *Relaksasi* \U0001f642

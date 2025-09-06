@@ -5,9 +5,9 @@ Hello! Kami membuat SickSuckHealth Chatbot untuk memenuhi tugas mata kuliah NLP^
 SickSuckHealth adalah chatbot berbasis aturan (regex) dengan konteks percakapan sederhana dan reflection kata ganti.  
 Chatbot ini dikembangkan untuk memberikan tips kesehatan seputar **diet, latihan, dan relaksasi** dengan cara yang natural dan ramah.  
 
-Integrasi dilakukan menggunakan **Discord API** melalui library [`discord.py`](https://discordpy.readthedocs.io/).
-
-Untuk penjelasan lebih lengkapnya, silakan kunjungi [`bit.ly/PPTSickSuckHealth`](https://bit.ly/PPTSickSuckHealth).
+- Integrasi dilakukan menggunakan **Discord API** melalui library [`discord.py`](https://discordpy.readthedocs.io/).
+- Output akhir kami adalah **Chatbot interaktif** yang bisa diakses via Discord [`https://discord.gg/X88wTgkX`](https://discord.gg/X88wTgkX).
+- Untuk penjelasan lebih lengkapnya, silakan kunjungi [`bit.ly/PPTSickSuckHealth`](https://bit.ly/PPTSickSuckHealth).
 
 ---
 
@@ -93,6 +93,7 @@ python -m unittest discover -s tests -p "test_*.py" -v
 ## 📸 Demo
 <img width="1080" height="690" alt="image" src="https://github.com/user-attachments/assets/38c26b35-bfa8-4edd-b4f7-89d8640c8871" />
 <img width="1080" height="690" alt="image" src="https://github.com/user-attachments/assets/ec361d9c-0aed-4810-85ae-507952bfe70e" />
+<img src="https://github.com/user-attachments/assets/d3bde8db-1463-4fb4-9707-86bd911a46b3" width="1080" />
 
 ---
 
